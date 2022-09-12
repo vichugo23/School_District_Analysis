@@ -18,3 +18,16 @@ The purpose of this project was to gather information from 15 schools such as th
 
 - Most of the results **stayed the same**
 - Only results that were affected were the AVG. Math scores and the Overall Passing Percentages only by  **.1%** 
+
+
+## How is the school summary affected?
+
+**BEFORE DATA CLEANUP**
+
+<img width="1272" alt="Screen Shot 2022-09-12 at 5 31 30 PM" src="https://user-images.githubusercontent.com/110702997/189770022-82c1ea50-db4d-4d1f-959b-d462c562ce5d.png">
+
+
+**AFTER DATA CLEANUP**
+
+<img width="1272" alt="Screen Shot 2022-09-12 at 5 34 09 PM" src="https://user-images.githubusercontent.com/110702997/189770141-babcdb5c-ac8c-470f-b8a5-1a8fd9d4dd39.png">
+
