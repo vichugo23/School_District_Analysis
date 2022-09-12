@@ -16,5 +16,5 @@ The purpose of this project was to gather information from 15 schools such as th
 
 <img width="888" alt="Screen Shot 2022-09-12 at 5 12 32 PM" src="https://user-images.githubusercontent.com/110702997/189767710-de76477e-3941-4cc2-8443-eea2fd22115e.png">
 
-- most of the results stayed the same
-- ony results that were affected were the AVG. Math scores and the Overall Passing Percentages only by * .1% *
+- Most of the results *stayed the same
+- Only results that were affected were the AVG. Math scores and the Overall Passing Percentages only by  *.1% 
