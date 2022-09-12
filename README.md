@@ -40,6 +40,7 @@ Removing the freshmen’s math and reading scores from Thomas High School doesn'
 ### How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
+
 **BEFORE DATA CLEANUP**
 
 <img width="436" alt="Screen Shot 2022-09-12 at 6 10 46 PM" src="https://user-images.githubusercontent.com/110702997/189773955-d5cf4552-d057-41b6-8027-26d6bb82cd3c.png">
@@ -57,6 +58,7 @@ Math and reading scores by grade
 
 
 Scores by school spending
+
 **BEFORE DATA CLEANUP**
 
 <img width="930" alt="Screen Shot 2022-09-12 at 6 15 13 PM" src="https://user-images.githubusercontent.com/110702997/189774426-bff4d0a9-b658-448b-a507-1098579b4c63.png">
@@ -72,6 +74,7 @@ Scores by school spending
 
 
 Scores by school size
+
 **BEFORE DATA CLEANUP**
 
 <img width="895" alt="Screen Shot 2022-09-12 at 6 17 24 PM" src="https://user-images.githubusercontent.com/110702997/189774618-411770b0-475b-485f-b3a4-565d20c72981.png">
@@ -87,6 +90,7 @@ Scores by school size
 
 
 Scores by school type
+
 **BEFORE DATA CLEANUP**
 <img width="895" alt="Screen Shot 2022-09-12 at 6 19 04 PM" src="https://user-images.githubusercontent.com/110702997/189774771-962575de-df24-470b-bd93-0da80760e1cd.png">
 
