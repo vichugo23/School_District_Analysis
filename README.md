@@ -31,3 +31,45 @@ The purpose of this project was to gather information from 15 schools such as th
 
 <img width="1272" alt="Screen Shot 2022-09-12 at 5 34 09 PM" src="https://user-images.githubusercontent.com/110702997/189770141-babcdb5c-ac8c-470f-b8a5-1a8fd9d4dd39.png">
 
+- Again most of the results **stayed the same**
+- The categories that were affected were only affected by **.1%**
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Removing the freshmen’s math and reading scores from Thomas High School doesn't not seem to affect their high school's performance between the other schools.
+
+### How does replacing the ninth-grade scores affect the following:
+
+Math and reading scores by grade
+**BEFORE DATA CLEANUP**
+
+<img width="436" alt="Screen Shot 2022-09-12 at 6 10 46 PM" src="https://user-images.githubusercontent.com/110702997/189773955-d5cf4552-d057-41b6-8027-26d6bb82cd3c.png">
+
+<img width="436" alt="Screen Shot 2022-09-12 at 6 11 22 PM" src="https://user-images.githubusercontent.com/110702997/189774014-4eefd457-383e-4eda-bd0b-baf1a5a86f9b.png">
+
+
+**AFTER DATA CLEANUP**
+<img width="436" alt="Screen Shot 2022-09-12 at 6 12 15 PM" src="https://user-images.githubusercontent.com/110702997/189774108-ca7081cb-6dd9-49fc-a388-8dcda2b61c67.png">
+
+
+<img width="548" alt="Screen Shot 2022-09-12 at 6 13 09 PM" src="https://user-images.githubusercontent.com/110702997/189774202-13bf05be-cbd7-4c56-bb84-baf14b2a147c.png">
+
+
+
+Scores by school spending
+**BEFORE DATA CLEANUP**
+
+
+**AFTER DATA CLEANUP**
+
+
+Scores by school size
+**BEFORE DATA CLEANUP**
+
+
+**AFTER DATA CLEANUP**
+
+
+Scores by school type
+**BEFORE DATA CLEANUP**
+
+**AFTER DATA CLEANUP**
