@@ -102,3 +102,5 @@ Scores by school type
 <img width="895" alt="Screen Shot 2022-09-12 at 6 18 32 PM" src="https://user-images.githubusercontent.com/110702997/189774731-60a8b839-5def-4088-9a19-0d80c6d55408.png">
 
 
+# Summary
+After cleaning up the school district data the passing percentages were not affected by alot. The scores for the freshmen students in Thomas High School were set to NaN, which means those scores are not taken into account. Although the scores didn't seem to be affected by much this could still affect how the budget per student is calculated for Thomas High School.
