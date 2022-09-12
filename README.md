@@ -48,6 +48,7 @@ Math and reading scores by grade
 
 
 **AFTER DATA CLEANUP**
+
 <img width="436" alt="Screen Shot 2022-09-12 at 6 12 15 PM" src="https://user-images.githubusercontent.com/110702997/189774108-ca7081cb-6dd9-49fc-a388-8dcda2b61c67.png">
 
 
