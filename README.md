@@ -4,7 +4,7 @@ School District Analysis using ``Python`, Anaconda`, `Jupyter Notebook`, `Pandas
 ## Overview of Project
 The purpose of this project was to gather information from 15 schools such as their grades and see if there is a correlation with the students grades and the school's budget. The original school district analysis had to be changed due to academic dishonesty from Thomas High School. The freshmen test scores from Thomas High School was removed from the analysis so this could affect the analysis quite a bit. Below is what was gathered from the analysis. 
 
-## How is the school summary affected?
+## How is the district summary affected?
 
 **BEFORE DATA CLEANUP**
 
@@ -14,3 +14,4 @@ The purpose of this project was to gather information from 15 schools such as th
 
 **AFTER DATA CLEANUP**
 
+<img width="888" alt="Screen Shot 2022-09-12 at 5 12 32 PM" src="https://user-images.githubusercontent.com/110702997/189767710-de76477e-3941-4cc2-8443-eea2fd22115e.png">
