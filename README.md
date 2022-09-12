@@ -58,18 +58,42 @@ Math and reading scores by grade
 Scores by school spending
 **BEFORE DATA CLEANUP**
 
+<img width="930" alt="Screen Shot 2022-09-12 at 6 15 13 PM" src="https://user-images.githubusercontent.com/110702997/189774426-bff4d0a9-b658-448b-a507-1098579b4c63.png">
+
+
+
 
 **AFTER DATA CLEANUP**
+
+<img width="930" alt="Screen Shot 2022-09-12 at 6 16 23 PM" src="https://user-images.githubusercontent.com/110702997/189774497-3efc9fc3-de29-47cd-9cc1-d1312f2e135a.png">
+
+
 
 
 Scores by school size
 **BEFORE DATA CLEANUP**
 
+<img width="895" alt="Screen Shot 2022-09-12 at 6 17 24 PM" src="https://user-images.githubusercontent.com/110702997/189774618-411770b0-475b-485f-b3a4-565d20c72981.png">
+
+
+
 
 **AFTER DATA CLEANUP**
+
+<img width="895" alt="Screen Shot 2022-09-12 at 6 18 02 PM" src="https://user-images.githubusercontent.com/110702997/189774679-c37635b4-5f6d-4593-ae3e-4f4989c3fd66.png">
+
+
 
 
 Scores by school type
 **BEFORE DATA CLEANUP**
+<img width="895" alt="Screen Shot 2022-09-12 at 6 19 04 PM" src="https://user-images.githubusercontent.com/110702997/189774771-962575de-df24-470b-bd93-0da80760e1cd.png">
+
+
+
 
 **AFTER DATA CLEANUP**
+
+<img width="895" alt="Screen Shot 2022-09-12 at 6 18 32 PM" src="https://user-images.githubusercontent.com/110702997/189774731-60a8b839-5def-4088-9a19-0d80c6d55408.png">
+
+
